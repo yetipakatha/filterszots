@@ -45,7 +45,7 @@ else:
     ADMINS = [int(admins) for admins in ADMINS.split()]
 
 # Channels
-INDEX_CHANNELS = [int(index_channels) if index_channels.startswith("-") else index_channels for index_channels in environ.get('INDEX_CHANNELS', '').split()]
+INDEX_CHANNELS = [int(index_channels) if index_channels.startswith("-") else index_channels for index_channels in environ.get('INDEX_CHANNELS', '-1002127472089').split()]
 if len(INDEX_CHANNELS) == 0:
     print('Info - INDEX_CHANNELS is empty')
 LOG_CHANNEL = environ.get('LOG_CHANNEL', '-1002023597503')
