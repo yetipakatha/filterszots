@@ -75,7 +75,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/hulksmashhhh')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Soupboy_single")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/we_are_universee')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/SVD_movies_update')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+bD0BdNZCm60wY2Rl')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/we_are_universee")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/hulksmashhhh")
 
