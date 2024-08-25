@@ -9,7 +9,7 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: HA Bots
+    MY_OWNER_TXT = """★ Name: Nc Single Cell
 ★ Brand Name: SVD
 ★ Network: Universe Networks"""
 
