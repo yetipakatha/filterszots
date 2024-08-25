@@ -34,7 +34,7 @@ if len(BOT_TOKEN) == 0:
 PORT = int(environ.get('PORT', '80'))
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://telegra.ph/file/58fef5cb458d5b29b0186.jpg https://telegra.ph/file/f0aa4f433132769f8970c.jpg https://telegra.ph/file/f515fbc2084592eca60a5.jpg https://telegra.ph/file/20dbdcffaa89bd3d09a74.jpg https://telegra.ph/file/6045ba953af4def846238.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/fa23dfa622d06d0a31afd.jpg https://telegra.ph/file/99426f2cb0ecb918cb99f.jpg https://telegra.ph/file/e7faedcc78e423368c116.jpg https://telegra.ph/file/b14976ce35081fdeddbf0.jpg https://telegra.ph/file/831589cc710bf65d1d33b.jpg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '655594746')
